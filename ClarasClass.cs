@@ -8,6 +8,9 @@ namespace UML2_BigMamma
 {
     public class ClarasClass
     {
-        Console.WriteLine("Hello, Bitches");
+         public ClarasClass(string name)
+        {
+            Console.WriteLine("Hello, Bitches");
+        }
     }
 }
