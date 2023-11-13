@@ -67,5 +67,7 @@ public class Program
 
     }
 
+    EmmasClass emmasClass = new EmmasClass();
+    
 
 }

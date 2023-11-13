@@ -10,9 +10,8 @@ namespace UML2_BigMamma
     {
         public string Besked { get; set; }
 
-        public EmmasClass(string besked)
+        public EmmasClass()
         {
-            Besked = besked;
         }
 
         public void SendBesked()
