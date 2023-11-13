@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace UML2_BigMamma
 {
-    internal class Marjopclass
+    public class Marjopclass
     {
+        int tal;
     }
 }
