@@ -8,5 +8,6 @@ namespace UML2_BigMamma
 {
     internal class Amalie
     {
+        public string Name { get; set; }
     }
 }
